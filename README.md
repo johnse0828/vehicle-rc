@@ -21,5 +21,8 @@ MODO DE USO
 	5,E
 	2,N;1,O;2,S
 
+URL DEL DIAGRAMA DE CLASES
+https://cloud.githubusercontent.com/assets/5317115/10861666/c574dcea-7f56-11e5-9ca6-c9e1cbbd8859.png
+
 DATOS DEL DESARROLLADOR
 Nombre: John Sebastian Assa
